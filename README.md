@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/jukkarauhala/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:arickbulakali@ndekocode.com">
+<a href="mailto:rauhala.jukka@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-rauhala.jukka%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
