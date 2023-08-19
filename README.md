@@ -4,11 +4,11 @@
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-- 🎓 I'm multitalent Software Design & Developer engineer
+- 🎓 I'm multitalent IT engineer
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning efficient usage of [GitHub](https://github.com/).
 - 👯 I’m looking to collaborate on OpenSource
-- 🤔 I’m looking for help with [Python](https://www.python.org/) and [Robot Framework](https://robotframework.org/)
+- 🤔 I’m looking for copperation with [Azure DevOps](https://azure.microsoft.com/en-us/products/devops), [Java](https://www.java.com/en/), [Python](https://www.python.org/) and [Robot Framework](https://robotframework.org/)
 - 💬 Ask me about anything
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/jukkarauhala/) or [GitHub](https://github.com/)
 - 😄 Pronouns: Him/His
@@ -16,15 +16,41 @@
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
-- Embedded, Front-End, Back-End, Scripting
+- Measurement and Control devices used in testing
+- Embedded, Protocols, Front-End, Back-End, Scripting
 - C, C++, C#, Java, Python
 - HTML, CSS, JavaScript
 - PHP & mySQL
+- SVN, Git
 - Windows, Linux
+- Azure DevOps
+- Power BI
 - Public Speaking
 - Arhcitectural Design
+- PLM Tools
+- Scrum & Kanban
 - Project Management
-- People and Team Management
+- People and Team Lead & Coach
+
+<h2 align="center">👨🏻‍💻 Solutions & Experience</h2>
+
+- [Vacon](https://www.danfoss.com/en/products/dds/low-voltage-drives/vacon-drives/vacon-nxp-air-cooled/) and [Danfoss](https://www.danfoss.com/en/products/dds/low-voltage-drives/ic7-drives/ic7-automation/) Low Power AC Drives
+- [Vacon](https://www.danfoss.com/en/products/dds/enclosed-drives/vacon-enclosed-drives/vacon-nxp-system-drive/) and [Danfoss](https://www.danfoss.com/en/products/dds/low-voltage-drives/ic7-drives/ic7-automation/) High Power System AC Drives
+- Hardware of [Marine and Power Plant UNIC engine control system](https://www.wartsila.com/services-catalogue/engine-services-4-stroke/wartsila-unic-engine-control-system-for-energy)
+- PC Tools of [Marine and Power Plant UNIC engine control system](https://www.wartsila.com/services-catalogue/engine-services-4-stroke/wartsila-unic-engine-control-system-for-energy)
+- Industrial [IoT](https://www.wapice.com/fi/tuotteet/iot-ticket)
+- Substation MEdium Voltage IEC, CN, ANSI Relion Series [Protection Relays](https://new.abb.com/medium-voltage/digital-substations/relion)
+- Testing and testing architecural design
+  - Unit Testing
+  - Integration Testing (Smoke)
+  - System Testing ([Typhoon HIL](https://www.typhoon-hil.com/))
+  - Product Validation
+- Test Team Lead and Laboratory Management
+  - Recruiting
+  - Coaching
+  - Test laboratory projects
+  - Budgeting
+  - Strategy Planning
 
 <h2 align="center"> 🤝🏻 Contact </h2>
 
@@ -145,13 +171,6 @@
 </table>
 
 <br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jura84" alt="jura84"/>
-</p>
-
 <br/>
-
-[![jura's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jura84&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br/>
 <br/>
