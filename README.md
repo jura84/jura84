@@ -48,10 +48,11 @@
 
 - Software and Test development
 - Software and Testing architecural design
-- Unit Testing
-- Integration Testing
-- System Testing
-- Product Validation
+- Built Software and Testing landscape utilizing CI/CD with
+  - Unit Testing
+  - Integration Testing
+  - System Testing
+  - Product Validation
 
 <h3 align="center">☕ Management</h3>
 
