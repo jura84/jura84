@@ -16,17 +16,17 @@
 
 <h2 align="center">👨🏻‍💻 Skills</h2>
 
-- Measurement and Control devices used in testing
+- Measurement and Control devices
 - Embedded, Protocols, Front-End, Back-End, Scripting
 - C, C++, C#, Java, Python
 - HTML, CSS, JavaScript
-- PHP & mySQL
+- PHP & SQL
 - SVN, Git
 - Windows, Linux
 - Azure DevOps
 - Power BI
-- Public Speaking
 - Arhcitectural Design
+- Public Speaking
 - PLM Tools
 - Scrum & Kanban
 - Project Management
