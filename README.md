@@ -4,8 +4,8 @@
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 
-I am a people-oriented leader with broad experience across technical, managerial, and strategic roles in complex international environments.<br /><br />
-I enjoy working in global teams and communicate fluently in Finnish and English. My background includes embedded systems, software development, and system-level solutions gained through diverse projects in large organizations. I thrive in leadership roles where I support teams by removing obstacles, improving ways of working, and enabling people to perform at their best. <br /><br />Alongside leadership, I bring a strong technical foundation that helps bridge strategy, architecture, and day-to-day execution.
+I am a people-oriented leader with broad experience across technical, managerial and strategic roles in complex international environments.<br /><br />
+I enjoy working in global teams and communicate fluently in Finnish and English. My background includes embedded systems, software development and system-level solutions gained through diverse projects in large organizations. I thrive in leadership roles where I support teams by removing obstacles, improving ways of working and enabling people to perform at their best. <br /><br />Alongside leadership, I bring a strong technical foundation that helps bridge strategy, architecture and day-to-day execution.
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning efficient usage of [GitHub](https://github.com/).
@@ -70,8 +70,8 @@ I enjoy working in global teams and communicate fluently in Finnish and English.
 <p align="center">
 <a href="https://www.linkedin.com/in/jukkarauhala/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jukka%20Rauhala-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jukka.rauhala@wirva.fi">
-<img alt="Email" src="https://img.shields.io/badge/Email-jukka.rauhala%40wirva.fi-red?style=flat-square&logo=Gmail"></a>
+<a href="mailto:rauhala.jukka@gmail.com">
+<img alt="Email" src="https://img.shields.io/badge/Email-rauhala.jukka%40gmail.com-red?style=flat-square&logo=Gmail"></a>
 </p>
 
 <h2 align="center">🔨 Tools and technologies</h2>
